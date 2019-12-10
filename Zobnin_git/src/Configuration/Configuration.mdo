@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Configuration xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="2bb7a296-12fe-4c44-89b6-0d7178405f1f">
+  <name>Zobnin_git</name>
+  <synonym>
+    <key>ru</key>
+    <value>Zobnin git</value>
+  </synonym>
+  <containedObjects classId="9cd510cd-abfc-11d4-9434-004095e12fc7" objectId="37b3f30c-ae5e-430f-be90-de1b3f6b6ea2"/>
+  <containedObjects classId="9fcd25a0-4822-11d4-9414-008048da11f9" objectId="4c383d7b-a807-4910-94c3-4c70a359000a"/>
+  <containedObjects classId="e3687481-0a87-462c-a166-9f34594f9bba" objectId="e9cfe844-b91d-4add-8514-008c547bd088"/>
+  <containedObjects classId="9de14907-ec23-4a07-96f0-85521cb6b53b" objectId="1de0a5cb-a3e6-46d3-a056-449a7350649d"/>
+  <containedObjects classId="51f2d5d8-ea4d-4064-8892-82951750031e" objectId="fe942512-0713-49c9-b371-9ac640079b81"/>
+  <containedObjects classId="e68182ea-4237-4383-967f-90c1e3370bc7" objectId="08eaa46e-231b-4cb6-b56a-576be49f054b"/>
+  <configurationExtensionCompatibilityMode>8.3.14</configurationExtensionCompatibilityMode>
+  <defaultRunMode>ManagedApplication</defaultRunMode>
+  <usePurposes>PersonalComputer</usePurposes>
+  <scriptVariant>Russian</scriptVariant>
+  <defaultLanguage>Language.Русский</defaultLanguage>
+  <dataLockControlMode>Managed</dataLockControlMode>
+  <objectAutonumerationMode>NotAutoFree</objectAutonumerationMode>
+  <modalityUseMode>DontUse</modalityUseMode>
+  <synchronousPlatformExtensionAndAddInCallUseMode>DontUse</synchronousPlatformExtensionAndAddInCallUseMode>
+  <compatibilityMode>8.3.14</compatibilityMode>
+  <languages uuid="51c2807f-f9e8-4892-b20a-daa131f9b98a">
+    <name>Русский</name>
+    <synonym>
+      <key>ru</key>
+      <value>Русский</value>
+    </synonym>
+    <languageCode>ru</languageCode>
+  </languages>
+</mdclass:Configuration>
